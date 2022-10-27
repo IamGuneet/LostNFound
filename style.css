@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    /* background-image: url('./bck.jpg'); */
+    background-repeat: no-repeat;
+    background-color: rgba(65, 201, 155, 0.575);
+    /* background-size: cover; */
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+.footer{
+    background-color: #fff;
+    text-align: center;
+    padding: 0.5rem;
+    margin-top: auto;
+    /* position:static; */
+}
